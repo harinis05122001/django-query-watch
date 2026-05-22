@@ -35,9 +35,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/django-query-watch"
-Repository = "https://github.com/yourusername/django-query-watch"
-Issues = "https://github.com/yourusername/django-query-watch/issues"
+Homepage = "https://github.com/harinis05122001/django-query-watch.git"
+Repository = "https://github.com/harinis05122001/django-query-watch.git"
+Issues = "https://github.com/harinis05122001/django-query-watch.git/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
