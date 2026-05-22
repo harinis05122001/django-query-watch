@@ -5,7 +5,7 @@
 [![PyPI version](https://badge.fury.io/py/django-query-watch.svg)](https://pypi.org/project/django-query-watch/)
 [![Python](https://img.shields.io/pypi/pyversions/django-query-watch)](https://pypi.org/project/django-query-watch/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI](https://github.com/yourusername/django-query-watch/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/django-query-watch/actions)
+[![CI](https://github.com/harinis05122001/django-query-watch/actions/workflows/ci.yml/badge.svg)](https://github.com/harinis05122001/django-query-watch/actions)
 
 ---
 
@@ -189,7 +189,7 @@ Django's ORM makes it easy to write queries that look clean but perform badly at
 Pull requests are welcome. For major changes please open an issue first.
 
 ```bash
-git clone https://github.com/yourusername/django-query-watch
+git clone https://github.com/harinis05122001/django-query-watch
 cd django-query-watch
 python -m venv venv
 source venv/bin/activate
