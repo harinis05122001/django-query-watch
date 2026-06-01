@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "django-query-watch"
-version = "0.1.0"
+version = "1.0.0"
 description = "Lightweight Django query performance monitoring and debugging toolkit"
 readme = "README.md"
 license = { text = "MIT" }
